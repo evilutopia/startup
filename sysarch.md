@@ -3,8 +3,11 @@
 Day1  大数据
 
 印象深刻的创业公司：偶数科技、数美科技
+
 alibaba： RocketMQ 
+
 oushu：HAWQ
+
 分布式存储系统
 
 后续补充...
